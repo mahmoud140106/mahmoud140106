@@ -3,9 +3,9 @@
 # 🚀 Mahmoud Taha
 ### Full Stack .NET Developer | Angular & React Expert
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=79C0FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Solutions;Expert+in+.NET+Core+%26+Cloud;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=79C0FF&center=true&vCenter=true&width=600&lines=Full+Stack+.NET+Developer;Building+Scalable+Web+Solutions;Expert+in+.NET+Core+%26+Cloud" alt="Typing SVG" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=mahmoud140106&label=Profile%20Views&color=444&style=flat-square)](https://github.com/mahmoud140106)
+![Profile Views](https://komarev.com/ghpvc/?username=mahmoud140106&label=Profile%20Views&color=58A6FF&style=flat-square)
 
 </div>
 
@@ -22,25 +22,24 @@
 | <img src="https://skillicons.dev/icons?i=html" width="48" /> | <img src="https://skillicons.dev/icons?i=css" width="48" /> | <img src="https://skillicons.dev/icons?i=tailwind" width="48" /> | <img src="https://skillicons.dev/icons?i=bootstrap" width="48" /> | <img src="https://skillicons.dev/icons?i=mysql" width="48" /> | <img src="https://skillicons.dev/icons?i=git" width="48" /> | <img src="https://skillicons.dev/icons?i=github" width="48" /> |
 | **HTML5** | **CSS3** | **Tailwind** | **Bootstrap** | **SQL** | **Git** | **GitHub** |
 | <img src="https://skillicons.dev/icons?i=azure" width="48" /> | <img src="https://skillicons.dev/icons?i=docker" width="48" /> | <img src="https://skillicons.dev/icons?i=postman" width="48" /> | <img src="https://skillicons.dev/icons?i=vscode" width="48" /> | <img src="https://skillicons.dev/icons?i=visualstudio" width="48" /> | <img src="https://skillicons.dev/icons?i=java" width="48" /> | <img src="https://skillicons.dev/icons?i=cpp" width="48" /> |
-| **Azure** | **Docker** | **Postman** | **VS Code** | **Visual Studio** | **Java** | **C++** |
+| **Azure** | **Docker** | **Postman** | **VS Code** | **VS IDE** | **Java** | **C++** |
 
 </div>
 
 ---
 
-## 📊 Performance & Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-| 🛠️ Top Languages | 📈 General Stats |
+| 🛠️ Top Languages | 📈 Overall Stats |
 | :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud140106&layout=compact&theme=outrun&hide_border=true&bg_color=1F2428&title_color=79C0FF&text_color=ffffff" width="380px" /> | <img src="https://github-readme-stats.vercel.app/api?username=mahmoud140106&show_icons=true&theme=outrun&hide_border=true&bg_color=1F2428&title_color=79C0FF&text_color=ffffff" width="380px" /> |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud140106&layout=compact&bg_color=21262d&title_color=58A6FF&text_color=c9d1d9&hide_border=true" width="380px" /> | <img src="https://github-readme-stats.vercel.app/api?username=mahmoud140106&show_icons=true&bg_color=21262d&title_color=58A6FF&text_color=c9d1d9&hide_border=true" width="380px" /> |
 
-### 🗓️ Contribution Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmoud140106&theme=dracula&hide_border=true&bg_color=1F2428&color=79C0FF&line=79C0FF&point=FFFFFF" width="85%" />
+### 🗓️ Contribution Activity & Streak
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmoud140106&theme=github-compact&bg_color=21262d&color=58A6FF&line=58A6FF&hide_border=true" width="85%" />
 
-### ⚡ Current Streak
-<img src="https://streak-stats.demolab.com?user=mahmoud140106&theme=tokyonight&hide_border=true&background=1F2428&stroke=79C0FF&ring=79C0FF&fire=F97583" width="85%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoud140106&theme=dark&background=21262d&stroke=58A6FF&ring=58A6FF&hide_border=true" width="85%" />
 
 </div>
 
@@ -50,14 +49,8 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/mahmoud-amer-a5397b282/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://github.com/mahmoud140106" target="_blank">
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-<a href="mailto:amer140106@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-amer-a5397b282/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahmoud140106)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amer140106@gmail.com)
 
 </div>
