@@ -11,8 +11,6 @@
 
 </div>
 
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -26,8 +24,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmoud140106&theme=github-compact&hide_border=true&bg_color=0D1117&color=79C0FF&line=79C0FF&point=C9D1D9" alt="Contribution Graph"/>
 
 </div>
-
----
 
 ## 💻 Tech Stack
 
@@ -86,8 +82,6 @@
   <img src="https://img.shields.io/badge/SOLID-000000?style=for-the-badge&logo=solid&logoColor=white" alt="SOLID"/>
 </p>
 
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -98,4 +92,16 @@
 
 </div>
 
----
+<div align="center">
+
+### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=twinkling" alt="Footer"/>
+
+</div>
+
+<div align="center">
+
+**⭐ From [mahmoud140106](https://github.com/mahmoud140106) with 💙**
+
+</div>
