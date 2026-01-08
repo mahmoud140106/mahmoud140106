@@ -3,9 +3,9 @@
 # 🚀 Mahmoud Taha
 ### Full Stack .NET Developer | Angular & React Expert
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Solutions;Expert+in+.NET+Core+%26+Cloud;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=79C0FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Solutions;Expert+in+.NET+Core+%26+Cloud;Always+Learning+New+Technologies" alt="Typing SVG" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=mahmoud140106&label=Profile%20Views&color=58A6FF&style=flat-square)](https://github.com/mahmoud140106)
+[![Profile Views](https://komarev.com/ghpvc/?username=mahmoud140106&label=Profile%20Views&color=444&style=flat-square)](https://github.com/mahmoud140106)
 
 </div>
 
@@ -32,15 +32,15 @@
 
 <div align="center">
 
-| 🛠️ Most Used Languages | 📈 GitHub Stats |
-| :--- | :--- |
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud140106&layout=compact&theme=dark&hide_border=true&title_color=58A6FF&bg_color=0D1117" width="380px" /> | <img src="https://github-readme-stats.vercel.app/api?username=mahmoud140106&show_icons=true&theme=dark&hide_border=true&title_color=58A6FF&bg_color=0D1117" width="380px" /> |
+| 🛠️ Top Languages | 📈 General Stats |
+| :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud140106&layout=compact&theme=outrun&hide_border=true&bg_color=1F2428&title_color=79C0FF&text_color=ffffff" width="380px" /> | <img src="https://github-readme-stats.vercel.app/api?username=mahmoud140106&show_icons=true&theme=outrun&hide_border=true&bg_color=1F2428&title_color=79C0FF&text_color=ffffff" width="380px" /> |
 
 ### 🗓️ Contribution Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmoud140106&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" width="85%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmoud140106&theme=dracula&hide_border=true&bg_color=1F2428&color=79C0FF&line=79C0FF&point=FFFFFF" width="85%" />
 
 ### ⚡ Current Streak
-<img src="https://streak-stats.demolab.com?user=mahmoud140106&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=F97583" width="85%" />
+<img src="https://streak-stats.demolab.com?user=mahmoud140106&theme=tokyonight&hide_border=true&background=1F2428&stroke=79C0FF&ring=79C0FF&fire=F97583" width="85%" />
 
 </div>
 
