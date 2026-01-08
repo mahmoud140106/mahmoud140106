@@ -1,6 +1,6 @@
 <div align="center">  
 
-# 👨‍💻 Mahmoud Taha
+#  Mahmoud Taha
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full+Stack+.NET+Developer;Angular+%7C+React+%7C+Next.js+Expert;Building+Scalable+Web+Solutions;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
@@ -12,10 +12,6 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahmoud140106&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=79C0FF&text_color=C9D1D9"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud140106&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoud140106&theme=dark&hide_border=true&background=0D1117&stroke=79C0FF&ring=79C0FF&fire=F97583&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmoud140106&theme=github-compact&hide_border=true&bg_color=0D1117&color=79C0FF&line=79C0FF&point=C9D1D9" alt="Contribution Graph"/>
@@ -26,13 +22,13 @@
 
 <p align="center">
   <a href="https://dotnet.microsoft.com/" target="_blank">
-    <img src="https://techstack-generator.vercel.app/dotnet-icon.svg" alt=".NET" width="65" height="65" />
+    <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="65" height="65" />
   </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
+    <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="65" height="65" />
   </a>
   <a href="https://angular.io/" target="_blank">
-    <img src="https://techstack-generator.vercel.app/angular-icon.svg" alt="Angular" width="65" height="65" />
+    <img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="65" height="65" />
   </a>
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
@@ -59,7 +55,7 @@
     <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="65" height="65" />
   </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img src="https://skillicons.dev/icons?i=sqlserver" alt="SQL Server" width="65" height="65" />
+    <img src="https://skillicons.dev/icons?i=sqlite" alt="SQL Server" width="65" height="65" />
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=git" alt="Git" width="65" height="65" />
@@ -100,8 +96,3 @@
 
 </div>
 
-<div align="center">
-
-💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-</div>
