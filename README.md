@@ -1,13 +1,12 @@
 <div align="center">
+  
+# 👨‍💻 Mahmoud Taha
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hi, I'm Mahmoud Taha
+### Full Stack Developer | .NET & Modern Web Technologies
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+.NET+%26+Modern+Web+Technologies" alt="Animated Subtitle" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+.NET+Developer;Angular+%7C+React+%7C+Next.js+Expert;Building+Scalable+Web+Solutions;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;.NET+Expert;Angular+%26+React+Developer;Clean+Code+Enthusiast" alt="Typing SVG" />
-
-[![Profile Views](https://komarev.com/ghpvc/?username=mahmoud140106&color=brightgreen&style=flat-square&label=Profile+Views)](https://github.com/mahmoud140106)
-[![GitHub followers](https://img.shields.io/github/followers/mahmoud140106?style=flat-square&color=brightgreen&labelColor=1C1E26)](https://github.com/mahmoud140106?tab=followers)
+![Profile Views](https://komarev.com/ghpvc/?username=mahmoud140106&label=Profile%20Views&color=00D9FF&style=for-the-badge)
 
 </div>
 
