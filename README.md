@@ -1,7 +1,9 @@
 <div align="center">  
 # 👨‍💻 Mahmoud Taha
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+.NET+Developer;Angular+%7C+React+%7C+Next.js+Expert;Building+Scalable+Web+Solutions;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 ![Profile Views](https://komarev.com/ghpvc/?username=mahmoud140106&label=Profile%20Views&color=00D9FF&style=for-the-badge)
+
 </div>
 ## 📊 GitHub Statistics
 <div align="center">
@@ -55,7 +57,9 @@
 </p>
 ## 🤝 Connect With Me
 <div align="center">
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-amer-a5397b282/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahmoud140106)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amer140106@gmail.com)
+
 </div>
