@@ -19,7 +19,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | <img src="https://skillicons.dev/icons?i=dotnet" width="45" /> | <img src="https://skillicons.dev/icons?i=cs" width="45" /> | <img src="https://skillicons.dev/icons?i=angular" width="45" /> | <img src="https://skillicons.dev/icons?i=react" width="45" /> | <img src="https://skillicons.dev/icons?i=nextjs" width="45" /> | <img src="https://skillicons.dev/icons?i=ts" width="45" /> | <img src="https://skillicons.dev/icons?i=js" width="45" /> |
 | **.NET** | **C#** | **Angular** | **React** | **Next.js** | **TS** | **JS** |
-| <img src="https://skillicons.dev/icons?i=html" width="45" /> | <img src="https://skillicons.dev/icons?i=css" width="45" /> | <img src="https://skillicons.dev/icons?i=tailwind" width="45" /> | <img src="https://skillicons.dev/icons?i=bootstrap" width="45" /> | <img src="https://skillicons.dev/icons?i=mssql" width="45" /> | <img src="https://skillicons.dev/icons?i=git" width="45" /> | <img src="https://skillicons.dev/icons?i=github" width="45" /> |
+| <img src="https://skillicons.dev/icons?i=html" width="45" /> | <img src="https://skillicons.dev/icons?i=css" width="45" /> | <img src="https://skillicons.dev/icons?i=tailwind" width="45" /> | <img src="https://skillicons.dev/icons?i=bootstrap" width="45" /> | <img src="https://skillicons.dev/icons?i=mysql" width="45" /> | <img src="https://skillicons.dev/icons?i=git" width="45" /> | <img src="https://skillicons.dev/icons?i=github" width="45" /> |
 | **HTML5** | **CSS3** | **Tailwind** | **Bootstrap** | **SQL** | **Git** | **GitHub** |
 | <img src="https://skillicons.dev/icons?i=azure" width="45" /> | <img src="https://skillicons.dev/icons?i=docker" width="45" /> | <img src="https://skillicons.dev/icons?i=postman" width="45" /> | <img src="https://skillicons.dev/icons?i=vscode" width="45" /> | <img src="https://skillicons.dev/icons?i=visualstudio" width="45" /> | <img src="https://skillicons.dev/icons?i=java" width="45" /> | <img src="https://skillicons.dev/icons?i=cpp" width="45" /> |
 | **Azure** | **Docker** | **Postman** | **VS Code** | **VS IDE** | **Java** | **C++** |
@@ -34,14 +34,14 @@
 
 <table>
   <tr>
-    <td width="50%"><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mahmoud140106&layout=compact&theme=dark&hide_border=true&title_color=58A6FF" alt="Top Languages" /></td>
-    <td width="50%"><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mahmoud140106&show_icons=true&theme=dark&hide_border=true&title_color=58A6FF" alt="Stats" /></td>
+    <td width="50%"><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mahmoud140106&layout=compact&theme=flat&hide_border=true&title_color=58A6FF&bg_color=f4f4f4" alt="Top Languages" /></td>
+    <td width="50%"><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mahmoud140106&show_icons=true&theme=flat&hide_border=true&title_color=58A6FF&bg_color=f4f4f4" alt="Stats" /></td>
   </tr>
   <tr>
-    <td colspan="2"><img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmoud140106&theme=github-compact&hide_border=true&area=true&bg_color=0D1117&color=58A6FF" width="100%" alt="Activity Graph" /></td>
+    <td colspan="2"><img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmoud140106&theme=github-compact&hide_border=true&area=true&bg_color=f4f4f4&color=58A6FF" width="100%" alt="Activity Graph" /></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoud140106&theme=dark&hide_border=true&stroke=58A6FF&background=0D1117" width="80%" alt="Streak" /></td>
+    <td colspan="2" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoud140106&theme=flat&hide_border=true&stroke=58A6FF&background=f4f4f4" width="80%" alt="Streak" /></td>
   </tr>
 </table>
 
