@@ -3,7 +3,7 @@
 # 🚀 Mahmoud Taha
 ### Full Stack .NET Developer | Angular & React Expert
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Solutions;Expert+in+.NET+Core+%26+Cloud;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+.NET+Developer;Building+Scalable+Web+Solutions;Angular+%7C+React+%7C+Next.js+Expert" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=mahmoud140106&label=Profile%20Views&color=blue&style=flat-square)](https://github.com/mahmoud140106)
 
@@ -32,14 +32,18 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud140106&layout=compact&theme=dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF" height="165px" alt="Top Languages" />
-<img src="https://github-readme-stats.vercel.app/api?username=mahmoud140106&show_icons=true&theme=dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF" height="165px" alt="GitHub Stats" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmoud140106&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" width="100%" alt="Contribution Graph" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoud140106&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=F97583&currStreakLabel=FFFFFF" width="49%" alt="GitHub Streak" />
+<table>
+  <tr>
+    <td width="50%"><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mahmoud140106&layout=compact&theme=dark&hide_border=true&title_color=58A6FF" alt="Top Languages" /></td>
+    <td width="50%"><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mahmoud140106&show_icons=true&theme=dark&hide_border=true&title_color=58A6FF" alt="Stats" /></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmoud140106&theme=github-compact&hide_border=true&area=true&bg_color=0D1117&color=58A6FF" width="100%" alt="Activity Graph" /></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoud140106&theme=dark&hide_border=true&stroke=58A6FF&background=0D1117" width="80%" alt="Streak" /></td>
+  </tr>
+</table>
 
 </div>
 
